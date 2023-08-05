@@ -1,6 +1,5 @@
 
 /*
-Q.No. 3
 
 Table: World
 
