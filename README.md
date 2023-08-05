@@ -1,0 +1,2 @@
+# LEETCODE.COM-SQL-50
+All the solutions for LEETCODE.COM-SQL-50
